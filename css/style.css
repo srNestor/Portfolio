@@ -107,6 +107,11 @@ figure {
     margin-bottom: 2em;
     font-size: 12px;
     text-transform: uppercase; }
+    .working a{
+      display: block;
+      margin-bottom: 2em;
+      font-size: 12px;
+      text-transform: uppercase; }
   #colorlib-aside #colorlib-logo {
     text-align: right;
     font-weight: 700;
